@@ -1,4 +1,4 @@
-# pdfView for Android
+# CheckSignature
 
 Module for getting certificate fingerprint from android app
 
